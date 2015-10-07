@@ -16,7 +16,7 @@
 		E81F5E311BC2CF1F00646538 /* Image.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81F5E301BC2CF1F00646538 /* Image.swift */; settings = {ASSET_TAGS = (); }; };
 		E81F5E331BC2D18E00646538 /* Parser.swift in Sources */ = {isa = PBXBuildFile; fileRef = E81F5E321BC2D18E00646538 /* Parser.swift */; settings = {ASSET_TAGS = (); }; };
 		E8B235621BC3BD5A0028C7DE /* DownloadManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = E8B235611BC3BD5A0028C7DE /* DownloadManager.swift */; settings = {ASSET_TAGS = (); }; };
-		E8DCA5EB1BC53E970072E9AF /* image001.png in Resources */ = {isa = PBXBuildFile; fileRef = E8DCA5EA1BC53E970072E9AF /* image001.png */; settings = {ASSET_TAGS = (); }; };
+		E8DCA5ED1BC53F880072E9AF /* image001.png in Resources */ = {isa = PBXBuildFile; fileRef = E8DCA5EC1BC53F880072E9AF /* image001.png */; settings = {ASSET_TAGS = (); }; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -31,7 +31,7 @@
 		E81F5E301BC2CF1F00646538 /* Image.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Image.swift; sourceTree = "<group>"; };
 		E81F5E321BC2D18E00646538 /* Parser.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Parser.swift; sourceTree = "<group>"; };
 		E8B235611BC3BD5A0028C7DE /* DownloadManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = DownloadManager.swift; sourceTree = "<group>"; };
-		E8DCA5EA1BC53E970072E9AF /* image001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image001.png; sourceTree = "<group>"; };
+		E8DCA5EC1BC53F880072E9AF /* image001.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = image001.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -64,7 +64,7 @@
 		E81F5E151BC275B100646538 /* Images */ = {
 			isa = PBXGroup;
 			children = (
-				E8DCA5EA1BC53E970072E9AF /* image001.png */,
+				E8DCA5EC1BC53F880072E9AF /* image001.png */,
 				E81F5E161BC275B200646538 /* AppDelegate.swift */,
 				E81F5E281BC275EE00646538 /* MasterViewController.swift */,
 				E81F5E2A1BC275FE00646538 /* DetailViewController.swift */,
@@ -140,7 +140,7 @@
 				E81F5E211BC275B200646538 /* LaunchScreen.storyboard in Resources */,
 				E81F5E1E1BC275B200646538 /* Assets.xcassets in Resources */,
 				E81F5E1C1BC275B200646538 /* Main.storyboard in Resources */,
-				E8DCA5EB1BC53E970072E9AF /* image001.png in Resources */,
+				E8DCA5ED1BC53F880072E9AF /* image001.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
